@@ -1,0 +1,4 @@
+{
+  "main": "dist/jszip.js",
+  "registry": "jspm"
+}
